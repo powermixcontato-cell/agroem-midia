@@ -1,0 +1,12 @@
+p1	Florida_orange_grove.JPG	Mmacbeth	CC0
+p2	Orange_Groves_at_California_Citrus_SHP.jpg	Blervis	CC0
+p3	Redlands'_Orange_Grove,_Mt._San_Bernardino_2-3-13a_(8566105622).jpg	D. Graham	CC BY-SA 2.0
+p4	Oranges.jpg	Wikimedia Commons	CC BY-SA 3.0
+p5	Fresh_Oranges.jpg	Sumasa	CC BY-SA 4.0
+p6	Orange_juice_1.jpg	Agricultural Research Service	Public domain
+p7	Orangen.jpg	Wikimedia Commons	CC BY-SA 2.0 de
+p8	Citrus_Groves_in_Arlington_Heights,_Riverside,_California.jpg	Riverside2018	CC BY-SA 4.0
+p9	Orange-grove_Spain.jpg	Steve Slater	CC BY 2.0
+p10	Orange_fruit.jpg	Nirajan_pant	CC BY-SA 3.0
+music	Kevin MacLeod - Tranquility.ogg	Kevin MacLeod	CC BY 3.0
+used: p1 p2 p4 p3 p6 p8 p5 p7 p9
