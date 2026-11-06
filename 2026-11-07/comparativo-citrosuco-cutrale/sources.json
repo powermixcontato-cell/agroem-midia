@@ -1,0 +1,152 @@
+[
+ {
+  "value": "R$ 5,35 bilhões",
+  "company": "Citrosuco",
+  "metric": "faturamento (Forbes Agro100)",
+  "year": "2024 (ano-base)",
+  "source": "Forbes Brasil, Agro100 2025",
+  "date": "publicado 23/12/2025; acesso 06/11/2026",
+  "url": "https://forbes.com.br/forbes-agro/2025/12/agro100-2025-conheca-as-empresas-que-faturaram-r-19-tri-do-campo-a-mesa/",
+  "notes": "53ª posição geral; setor Alimentos e Bebidas; fundação 1963 Matão; CEO Mario Bertoncini. Cutrale não aparece nesse artigo."
+ },
+ {
+  "value": "53ª",
+  "company": "Citrosuco",
+  "metric": "posição geral Agro100 2025",
+  "year": "2025",
+  "source": "Forbes",
+  "date": "23/12/2025",
+  "url": "https://forbes.com.br/forbes-agro/2025/12/agro100-2025-conheca-as-empresas-que-faturaram-r-19-tri-do-campo-a-mesa/",
+  "notes": ""
+ },
+ {
+  "value": "1963, Matão (SP)",
+  "company": "Citrosuco",
+  "metric": "fundação",
+  "year": "",
+  "source": "Site Citrosuco / Forbes",
+  "date": "acesso 06/11/2026",
+  "url": "https://www.citrosuco.com.br/a-citrosuco/",
+  "notes": ""
+ },
+ {
+  "value": "4 fábricas: Matão, Catanduva, Araras (SP), Lake Wales (FL)",
+  "company": "Citrosuco",
+  "metric": "plantas industriais",
+  "year": "site atual",
+  "source": "Site Citrosuco",
+  "date": "acesso 06/11/2026",
+  "url": "https://www.citrosuco.com.br/a-citrosuco/",
+  "notes": "Matão descrita pela empresa como maior planta de processamento de suco de laranja do mundo (não usado no slide)."
+ },
+ {
+  "value": "28 fazendas, 25 de laranja",
+  "company": "Citrosuco",
+  "metric": "fazendas",
+  "year": "site atual",
+  "source": "Site Citrosuco",
+  "date": "acesso 06/11/2026",
+  "url": "https://www.citrosuco.com.br/a-citrosuco/",
+  "notes": "Outra página da empresa cita 29 fazendas/40 mil ha; não usamos hectares por divergência."
+ },
+ {
+  "value": "5 terminais marítimos",
+  "company": "Citrosuco",
+  "metric": "logística",
+  "year": "site atual",
+  "source": "Site Citrosuco",
+  "date": "acesso 06/11/2026",
+  "url": "https://www.citrosuco.com.br/a-citrosuco/",
+  "notes": "Santos, Wilmington, Gent, Toyohashi, Newcastle."
+ },
+ {
+  "value": "+100 países",
+  "company": "Citrosuco",
+  "metric": "alcance",
+  "year": "site atual",
+  "source": "Site Citrosuco",
+  "date": "acesso 06/11/2026",
+  "url": "https://www.citrosuco.com.br/a-citrosuco/",
+  "notes": ""
+ },
+ {
+  "value": "14.000 funcionários",
+  "company": "Citrosuco",
+  "metric": "empregados",
+  "year": "site atual",
+  "source": "Site Citrosuco",
+  "date": "acesso 06/11/2026",
+  "url": "https://www.citrosuco.com.br/a-citrosuco/",
+  "notes": "Não comparado com Cutrale (critério diferente)."
+ },
+ {
+  "value": "1967 (aquisição da Suconasa, Araraquara)",
+  "company": "Cutrale",
+  "metric": "fundação",
+  "year": "",
+  "source": "Site Cutrale",
+  "date": "acesso 06/11/2026",
+  "url": "https://www.cutrale.com.br/institucional.xhtml",
+  "notes": ""
+ },
+ {
+  "value": "5 fábricas: Araraquara, Colina, Conchal, Uchôa, Itápolis",
+  "company": "Cutrale",
+  "metric": "plantas",
+  "year": "site atual",
+  "source": "Site Cutrale",
+  "date": "acesso 06/11/2026",
+  "url": "https://www.cutrale.com.br/institucional.xhtml",
+  "notes": ""
+ },
+ {
+  "value": "2 terminais: Santos e Guarujá",
+  "company": "Cutrale",
+  "metric": "logística",
+  "year": "site atual",
+  "source": "Site Cutrale",
+  "date": "acesso 06/11/2026",
+  "url": "https://www.cutrale.com.br/institucional.xhtml",
+  "notes": ""
+ },
+ {
+  "value": "98% exportado; +90 países",
+  "company": "Cutrale",
+  "metric": "destino do suco",
+  "year": "site atual",
+  "source": "Site Cutrale",
+  "date": "acesso 06/11/2026",
+  "url": "https://www.cutrale.com.br/institucional.xhtml",
+  "notes": ""
+ },
+ {
+  "value": "cerca de 18 mil na safra",
+  "company": "Cutrale",
+  "metric": "colaboradores",
+  "year": "site atual",
+  "source": "Site Cutrale",
+  "date": "acesso 06/11/2026",
+  "url": "https://www.cutrale.com.br/institucional.xhtml",
+  "notes": "Não comparado."
+ },
+ {
+  "value": "soja desde 2012",
+  "company": "Cutrale",
+  "metric": "diversificação",
+  "year": "2012",
+  "source": "Site Cutrale",
+  "date": "acesso 06/11/2026",
+  "url": "https://www.cutrale.com.br/institucional.xhtml",
+  "notes": ""
+ },
+ {
+  "value": "Citrosuco, Cutrale e Louis Dreyfus Company",
+  "company": "ambas",
+  "metric": "associadas CitrusBR",
+  "year": "atual",
+  "source": "CitrusBR",
+  "date": "acesso 06/11/2026",
+  "url": "https://citrusbr.com/sobre-nos/",
+  "notes": ""
+ }
+]
