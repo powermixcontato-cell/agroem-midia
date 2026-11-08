@@ -1,0 +1,79 @@
+{
+  "topic": "12 regiões do cinturão da laranja por área de pomares",
+  "reference": "Fundecitrus inventário março/2026, tabela 44 p.60",
+  "total_hectares": 400260,
+  "regions": [
+    {
+      "rank": 1,
+      "region": "Avaré",
+      "state": "SP",
+      "hectares": 58959
+    },
+    {
+      "rank": 2,
+      "region": "Duartina",
+      "state": "SP",
+      "hectares": 58600
+    },
+    {
+      "rank": 3,
+      "region": "Bebedouro",
+      "state": "SP",
+      "hectares": 52171
+    },
+    {
+      "rank": 4,
+      "region": "Matão",
+      "state": "SP",
+      "hectares": 37807
+    },
+    {
+      "rank": 5,
+      "region": "Porto Ferreira",
+      "state": "SP",
+      "hectares": 37340
+    },
+    {
+      "rank": 6,
+      "region": "Triângulo Mineiro",
+      "state": "MG",
+      "hectares": 35812
+    },
+    {
+      "rank": 7,
+      "region": "Limeira",
+      "state": "SP",
+      "hectares": 26799
+    },
+    {
+      "rank": 8,
+      "region": "Itapetininga",
+      "state": "SP",
+      "hectares": 25900
+    },
+    {
+      "rank": 9,
+      "region": "Votuporanga",
+      "state": "SP",
+      "hectares": 22513
+    },
+    {
+      "rank": 10,
+      "region": "São José do Rio Preto",
+      "state": "SP",
+      "hectares": 21120
+    },
+    {
+      "rank": 11,
+      "region": "Altinópolis",
+      "state": "SP",
+      "hectares": 12815
+    },
+    {
+      "rank": 12,
+      "region": "Brotas",
+      "state": "SP",
+      "hectares": 10424
+    }
+  ]
+}
