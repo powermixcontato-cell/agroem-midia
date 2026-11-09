@@ -1,0 +1,10 @@
+p1	Florida orange grove.JPG	Mmacbeth	CC0
+p2	Oranges on a tree 065.jpg	Danjuma Anthony	CC BY-SA 4.0
+p3	Laranjas-pera.jpg	ArionStar	CC0
+p4	Orange -- 2022 -- 9715.jpg	Dietmar Rabich	CC BY-SA 4.0
+p5	DFC 3928 A vibrant pile of fresh oranges with mottled green-and-orange skins ready to be picked or enjoyed.jpg	PattayaPatrol	CC BY-SA 4.0
+p6	A box of Orange.jpg	Peachyeung316	CC BY-SA 4.0
+p7	Starr-220604-0491-Citrus sinensis-fruit orchards-Hawea Pl Olinda-Maui (52449239145).jpg	Forest and Kim Starr	CC BY 2.0
+p8	Green Orange.jpg	Ikiwaner	CC BY-SA 3.0
+p9	Oranges on a tree 068.jpg	Danjuma Anthony	CC BY-SA 4.0
+p10	Orange Harvest.jpg	Los Angeles Times	CC BY 4.0
