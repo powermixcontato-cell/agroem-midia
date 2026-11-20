@@ -1,0 +1,22 @@
+Vídeo 06h 20/11/2026 — 98% do suco da Cutrale não fica no Brasil
+Duração: 57,2 s
+Narração: Gemini TTS Sulafat, gemini-3.8-flash-tts, um único pedido, ritmo calmo, sotaque paulista.
+Anúncio E-Corp Tech (ecorptec.com.br) escrito no vídeo de 0 a 12 s, metade de baixo. Não entra na legenda.
+
+Fontes dos dados:
+- Site institucional da Cutrale (cutrale.com.br/institucional.xhtml), consulta em 20/11/2026:
+  fundada em 1967 (aquisição da Suconasa em Araraquara); origem na compra e venda de laranja entre os Mercados Municipais do Rio e de São Paulo (década de 1950);
+  5 fábricas (Araraquara, Colina, Conchal, Uchôa, Itápolis); terminais em Santos e Guarujá;
+  cerca de 18 mil colaboradores na safra; 98% da produção de suco destinada à exportação em mais de 90 países.
+- Veja Agro, 08/11/2026, “Sucessão na Cutrale: a quarta geração entra em cena no império da laranja”:
+  descreve a Cutrale como a maior exportadora de suco de laranja do mundo;
+  Cutrale, Citrosuco e Louis Dreyfus concentram mais de 90% das exportações brasileiras de suco;
+  a quarta geração já começa a assumir funções na empresa.
+
+Fotos (Wikimedia Commons), nenhuma reutilizada dos posts anteriores, sem pessoas:
+- Orange juice 1.jpg — USDA / Agricultural Research Service, domínio público
+- Orange Blossom 2 (IMO 9675406) Rotterdam 2015.jpg — Niels Johannes, CC BY-SA 4.0
+- Mercado Municipal de São Paulo.jpg — PortoBay Hotels & Resorts, CC BY 2.0
+- Laranjal Cutrale 050806 REFON 3.jpg e Laranjal Cutrale 050806 REFON 2.jpg — José Reynaldo da Fonseca (REFON), CC BY 2.5
+- Laranja (Avaré) REFON 1.JPG — José Reynaldo da Fonseca, CC BY 2.5
+- Porto de Santos.jpg — Jorge Andrade, CC BY 2.0
