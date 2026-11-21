@@ -1,0 +1,7 @@
+FB 6b014a7f9ffbc8503c08a19e (type reel, verificado get_post, status scheduled) — legenda editada 1x (frase sobre a SEC corrigida)
+2026-11-21 10:00 BRT (13:00 UTC) — SÓ Facebook (sem IG hoje)
+repo commit 74f4df3c1ac9c7044cc8188a79536f32919d7418 (2026-11-21/video-10h/video.mp4)
+url https://raw.githubusercontent.com/powermixcontato-cell/agroem-midia/74f4df3/2026-11-21/video-10h/video.mp4
+voz: Gemini Sulafat, gemini-3.8-flash-tts, take 4 (cada take = 1 pedido com a narração inteira), sem atempo
+duração: 58,600 s (narração 57,64 s)
+tema: Cutrale é a principal fornecedora de suco de laranja da Coca-Cola (10-K 20/02/2026), aliança Minute Maid 1996 + fábricas Auburndale/Leesburg, Aracoara na cadeia da Coca-Cola (CGN 11/11/2026)
