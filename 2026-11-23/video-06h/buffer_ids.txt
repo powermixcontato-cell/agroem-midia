@@ -1,0 +1,10 @@
+IG 6b03eebe00ec56c26fe6eed2 (metadata.type reel, shouldShareToFeed, verificado get_post, status scheduled)
+FB 6b03eec09c207fed9582fd4e (metadata.facebook.type reel, verificado get_post, status scheduled)
+2026-11-23 06:00 BRT (09:00 UTC)
+repo commit b67ad350457c2d7cb04755de3b786fd710b3b3e7 (2026-11-23/video-06h/video.mp4)
+url https://raw.githubusercontent.com/powermixcontato-cell/agroem-midia/b67ad35/2026-11-23/video-06h/video.mp4
+voz: Gemini Sulafat, gemini-3.8-flash-tts, take 1 (1 pedido com a narração inteira), sem atempo
+duração: 59,000 s (narração 58,24 s)
+anúncio E-Corp Tech 0-12 s (frames 3s e 10.3s conferidos)
+tema: 10 anos (23/11/2016) dos 7 TCCs no Cade sobre cartel de compra de laranja (Cutrale, Citrovita, Coinbra, Fischer, Cargill, Bascitrus, Abecitrus; R$ 301 mi); arquivamento 28/02/2018 sem condenação; hoje caixa indústria R$ 27,92 (Cepea 19/11), -30% em 1 ano (Itaú BBA via Agrolink 18/11)
+gate: PASS 10/10 (1a rodada FAIL image_reuse: 4 fotos repetidas, trocadas)
