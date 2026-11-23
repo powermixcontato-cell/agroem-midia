@@ -1,0 +1,10 @@
+IG 6b048b8a83d02a163386d3e9 (metadata.type reel, shouldShareToFeed, verificado get_post, status scheduled)
+FB 6b048b8d0191a6ffcb86a523 (metadata.facebook.type reel, verificado get_post, status scheduled)
+2026-11-23 17:00 BRT (20:00 UTC)
+repo commit 84105e06a20498380c398b90c2e21626a36dea43 (2026-11-23/video-17h/video.mp4)
+url https://raw.githubusercontent.com/powermixcontato-cell/agroem-midia/84105e0/2026-11-23/video-17h/video.mp4
+voz: Gemini Sulafat, gemini-3.8-flash-tts, take 2 (1 pedido com a narração inteira; take 1 descartado por 62,96 s), sem atempo
+duração: 59,5 s (narração 58,88 s)
+anúncio E-Corp Tech 0-12 s (frames 3s e 10s conferidos)
+tema: greening x Resolução SAA 32 (25/05/2026): erradicação obrigatória só até 3º ano em municípios >10%; Portaria CDA 46 (03/07/2026); Fundecitrus 31/08/2026 pomares >10 anos 63,27% (58,43%), copa >metade 28,5% (22,5%)
+gate: PASS 10/10, registrado (+6 fotos)
